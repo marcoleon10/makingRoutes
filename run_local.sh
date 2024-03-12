@@ -1,4 +1,5 @@
-export FLASK_APP = app/routes.py
-export FLASK_ENV = development
+
+export FLASK_APP=app/routes.py
+export FLASK_ENV=development
 
 flask run --debug

@@ -16,7 +16,7 @@ INSERT INTO task(
 ) VALUES
 (
     "Wash dishes",
-    "Use dish soap to wash dishes".
+    "Use dish soap to wash dishes",
     "Lorem Ipsum (description)"
 ),
 (
@@ -28,4 +28,4 @@ INSERT INTO task(
     "Buy groceries",
     "Drive to the store and buy groceries",
     "We need eggs, bread, milk and ham"
-)
+);
